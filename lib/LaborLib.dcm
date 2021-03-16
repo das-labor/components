@@ -1,0 +1,123 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C
+D Unpolarized capacitor
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CP
+D Elko
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP CTRIM
+D Trimmkondensator
+K trimmer variable capacitor
+F ~
+$ENDCMP
+#
+$CMP C_KERKO_SMD_0603
+D Kondensator SMD
+K cap capacitor
+F ~
+$ENDCMP
+#
+$CMP D_Capacitance
+D Variable capacitance diode
+K capacitance diode varicap varactor
+F ~
+$ENDCMP
+#
+$CMP D_Photo
+D Photodiode
+K photodiode diode opto
+F ~
+$ENDCMP
+#
+$CMP D_Schottky
+D Schottky diode
+K diode Schottky
+F ~
+$ENDCMP
+#
+$CMP D_THT_1N4007
+D Diode 1N4007
+K diode
+F ~
+$ENDCMP
+#
+$CMP D_THT_1N4148
+D Diode 1N4148
+K diode
+F ~
+$ENDCMP
+#
+$CMP D_Zener
+D Zener diode
+K diode
+F ~
+$ENDCMP
+#
+$CMP D_copy
+D Diode
+K diode
+F ~
+$ENDCMP
+#
+$CMP Jumper_THT
+D Jumper, normally closed
+K jumper bridge link NC
+F ~
+$ENDCMP
+#
+$CMP L
+D Inductor
+K inductor choke coil reactor magnetic
+F ~
+$ENDCMP
+#
+$CMP LED
+D Light emitting diode
+K LED diode
+F ~
+$ENDCMP
+#
+$CMP Net-Tie_2
+D Net tie, 2 pins
+K net tie short
+F ~
+$ENDCMP
+#
+$CMP Quarz_SMD
+D Quarz SMD
+K quartz ceramic resonator oscillator
+F ~
+$ENDCMP
+#
+$CMP RTRIM
+D Trimmable resistor (preset resistor)
+K R res resistor variable potentiometer trimmer
+F ~
+$ENDCMP
+#
+$CMP R_SMD_0603
+D Widerstand SMD 0603
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP R_THT
+D Widerstand THT
+K R res resistor
+F ~
+$ENDCMP
+#
+$CMP R_TRIM
+D Poti
+K R res resistor variable potentiometer rheostat
+F ~
+$ENDCMP
+#
+#End Doc Library
